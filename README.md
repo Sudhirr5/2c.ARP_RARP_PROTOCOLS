@@ -1,4 +1,4 @@
-# 2c.SIMULATING ARP /RARP PROTOCOLS
+# EXP NO :2c SIMULATING ARP /RARP PROTOCOLS
 ## AIM
 To write a python program for simulating ARP/RARP protocols using TCP.
 ## ALGORITHM:
